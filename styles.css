@@ -4,7 +4,19 @@ div {
   font-family: 'Open Sans', sans-serif;
   font-size: 24px;
   margin: 15px;
-}#greeting {
+}
+
+h1 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 30px;
+  margin: 15px;
+}
+h2 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 25px;
+  margin: 15px;
+}
+#greeting {
   background-color: #F8F8F8;
   font-family: 'Open Sans', sans-serif;
   font-size: 24px;
