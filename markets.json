@@ -1,0 +1,10 @@
+[
+{ 
+  "name":"DOW JONES" ,
+  "totalreturn":true
+},
+{ 
+  "name":"IBEX 35" ,
+  "totalreturn":false 
+}
+]

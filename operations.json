@@ -1,0 +1,16 @@
+[
+{ 
+  "date": 1420997037 ,
+  "companyticker":"NVDA",
+  "stocksamount":100,
+  "stockprice":1,
+  "coin":"dollar"
+},
+{ 
+  "date": 1389461037 ,
+  "companyticker":"HCP",
+  "stocksamount":100,
+  "stockprice":1,
+  "coin":"dollar" 
+}
+]

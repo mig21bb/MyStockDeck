@@ -1,0 +1,26 @@
+[
+{ 
+  "name":"NVIDIA" ,
+  "ticker":"NVDA" 
+},
+{ 
+  "name":"HCP Inc." ,
+  "ticker":"HCP" 
+},
+{ 
+  "name":"AT&T" ,
+  "ticker":"T"
+},
+{ 
+  "name":"SANTANDER" ,
+  "ticker":"SAN" 
+},
+{ 
+  "name":"TELEFONICA" ,
+  "ticker":"TEF" 
+},
+{ 
+  "name":"REPSOL" ,
+  "ticker":"REP"
+}
+]
