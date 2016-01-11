@@ -2,23 +2,23 @@
 div {
   background-color: #ffffff;
   font-family: 'Open Sans', sans-serif;
-  font-size: 24px;
-  margin: 15px;
+  font-size: 1.5em;
+  margin: 1em;
 }
 
 h1 {
   font-family: 'Open Sans', sans-serif;
-  font-size: 30px;
-  margin: 15px;
+  font-size: 1.2em;
+  margin: 1em;
 }
 h2 {
   font-family: 'Open Sans', sans-serif;
-  font-size: 25px;
-  margin: 15px;
+  font-size: 1.1em;
+  margin: 1em;
 }
 #greeting {
   background-color: #F8F8F8;
   font-family: 'Open Sans', sans-serif;
   font-size: 24px;
-  margin: 15px;
+  margin: 1em;
 }
